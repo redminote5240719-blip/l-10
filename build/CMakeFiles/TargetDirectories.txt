@@ -1,0 +1,7 @@
+D:/L 10/build/CMakeFiles/task1.dir
+D:/L 10/build/CMakeFiles/task2.dir
+D:/L 10/build/CMakeFiles/task3.dir
+D:/L 10/build/CMakeFiles/task4.dir
+D:/L 10/build/CMakeFiles/task5.dir
+D:/L 10/build/CMakeFiles/edit_cache.dir
+D:/L 10/build/CMakeFiles/rebuild_cache.dir
