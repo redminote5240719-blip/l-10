@@ -10,3 +10,5 @@ if(MSVC)
 else()
   add_compile_options(-Wall -Wextra -Wpedantic)
 endif()
+
+add_executable(task1 src/task1_square_threads.cpp)
