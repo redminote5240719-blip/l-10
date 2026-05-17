@@ -12,3 +12,4 @@ else()
 endif()
 
 add_executable(task1 src/task1_square_threads.cpp)
+add_executable(task2 src/task2_data_race.cpp)
